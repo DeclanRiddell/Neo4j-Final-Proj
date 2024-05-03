@@ -2,6 +2,8 @@ Project using distributed DB/Tech and Visualization BI Software
 
 Technologies: Python, Neo4j, Tableau
 
+Dataset: https://www.kaggle.com/datasets/okhiriadaveoseghale/100000-sales-records
+
 For this to work you must have a Neo4j Account and you can then plug in your URI to the "conn", and the user and pass into "user" and "pword"
 
 This was meant to be used in a notebook given the technology stack, however there is also an option to use a python script version if you want, which can be added to in order to make it more friendly. The python file is just given as a starting point. If you desire to use the notebook, you can download the notebook afterwards into a script format.
